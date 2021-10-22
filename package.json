@@ -1,0 +1,19 @@
+{
+  "name": "median-objects",
+  "version": "1.0.0",
+  "description": "Calculate median of an Array of Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techvoid/median-objects.git"
+  },
+  "author": "AK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techvoid/median-objects/issues"
+  },
+  "homepage": "https://github.com/techvoid/median-objects#readme"
+}
