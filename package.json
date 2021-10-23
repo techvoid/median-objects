@@ -1,6 +1,6 @@
 {
   "name": "median-objects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate median of an Array of Objects",
   "main": "index.js",
   "scripts": {
